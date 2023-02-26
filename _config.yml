@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: OpenAPI Center
+tagline: Central repository and set of features based on OpenAPI
 remote_theme: chrisrhymes/bulma-clean-theme
 
-email: your-email@domain.com
+email: ricardo.rss.dev@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  Website under dev
 baseurl: "/"
 # url: "https://www.csrhymes.com"
 permalink: pretty
@@ -66,15 +66,15 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Ricardo SS - Based on Bulma Theme from C.S. Rhymes"
       layout: post
-      image: https://via.placeholder.com/1200x800
+      image: https://ssricardo.github.io/#blog
       show_sidebar: true
 
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+# footer_menu: example_footer_menu
 
 collections:
   products: 
