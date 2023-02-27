@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Docs
-menubar: docs_menu
+title: Development / Helping
+# menubar: docs_menu
 show_sidebar: false
 ---
+
+TODO
 
 Bulma Clean Theme has many features available. The documentation has been spit into categories to make it easier to navigate through the various features. 
 

@@ -1,5 +1,9 @@
-- name: Docs
-  link: /docs/
+- name: Motivation
+  link: /motivation
+- name: Features
+  link: /features
+- name: Development
+  link: /dev
 - name: Example Pages
   link: /#
   dropdown:
