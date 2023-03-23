@@ -5,7 +5,7 @@ items:
     icon: fa-bars
   - title: Integrations
     subtitle: Possible to send updates from pipeline
-    icon: fa-circle-up
+    icon: fa-upload
   - title: Day-to-day tools
     subtitle: Stored request, API versions, etc...
-    icon: fa-code-compare
+    icon: fa-users

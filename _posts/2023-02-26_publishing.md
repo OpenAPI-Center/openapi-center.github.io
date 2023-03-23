@@ -1,4 +1,9 @@
-# Hello world
+---
+title: Hello world
+# subtitle: Going live
+layout: blog
+---
+
 
 **Open-API Center** is here.
 

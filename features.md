@@ -5,5 +5,26 @@ layout: page
 show_sidebar: false
 ---
 
-TODO
-This is an example products page you can use to display a simple listing of your products and their ratings and reviews.
+## In a nutshell
+
+* Centralized repository for APIs
+* Namespaces
+* Keep multiple versions of APIs
+* Compare APIs between distinct versions and/or namespaces
+* Store samples of requests (like Postman)
+* Access control
+    - For namespaces;
+    - APIs; 
+    - Request samples
+* Receive notification (webhook) upon API change
+    - Filter webhook for specific paths (TODO)
+
+## View features
+
+{% include youtube.html video="Bv7s1Q83Zxg" %}
+
+### Know more
+
+A more detailed explanation is shown:
+
+{% include youtube.html video="fLAujjNnGuI" %}
